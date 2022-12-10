@@ -10,19 +10,22 @@ For a number of figures final assembly and cosmetic changes were done in Inkscap
 
 ## Installation requirements
 
-The code uses Python 3.6+.
+The code makes heavy use of [Pyrepseq](https://github.com/andim/pyrepseq), a python package for the analysis of immune repertoire sequencing data that we have released to accompany this paper.
 
-A number of standard scientific python packages are needed for the numerical simulations and visualizations. An easy way to install all of these is to install a Python distribution such as [Anaconda](https://www.continuum.io/downloads).
+`pip install pyrepseq==1.0`
+
+
+Python 3.6+.
+
+A number of standard scientific python packages are needed for the statistical analyses and visualizations. An easy way to install many of these is to install a Python distribution such as [Anaconda](https://www.continuum.io/downloads).
 
 - [numpy](http://github.com/numpy/numpy/)
 - [scipy](https://github.com/scipy/scipy)
 - [pandas](http://github.com/pydata/pandas)
 - [matplotlib](http://github.com/matplotlib/matplotlib)
 - [seaborn](http://github.com/mwaskom/seaborn)
+- [networkx](https://github.com/networkx/networkx)
 
-Additionally the code also relies on the following package:
-
-- [pyrepseq](https://github.com/andim/pyrepseq)
 
 
 ## Contact
