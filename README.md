@@ -1,8 +1,10 @@
 # Measures of epitope binding degeneracy from T cell receptor repertoires
 
+<img src="https://github.com/andim/paper_coincidences/blob/main/figures/pngs/figure1.png" width="800" alt='Figure' title="Patterns of sequence similarity within an epitope-specific repertoire.">
+
 This repository contains the source code associated with the manuscript
 
-Mayer, Callan: [Measures of epitope binding degeneracy from T cell receptor repertoires](https://doi.org/10.1101/2022.07.25.501373), bioRxiv preprint, 2022
+Mayer, Callan: [Measures of epitope binding degeneracy from T cell receptor repertoires](https://doi.org/10.1073/pnas.2213264120), PNAS, 2023
 
 It allows reproduction of the statistical analyses and numerical results reported in the manuscript.
 
